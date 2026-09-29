@@ -1,0 +1,1 @@
+ignoriraj vjezba0_test_git
